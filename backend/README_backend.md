@@ -25,3 +25,6 @@ Workflows ubicados en backend/.github/workflows/
 Requiere secrets:
 - DOCKERHUB_USERNAME
 - DOCKERHUB_TOKEN
+
+# Ejercicio 8 del Examen - César Valverde Pardo
+Resultado del log --graph --oneline: 930638e
