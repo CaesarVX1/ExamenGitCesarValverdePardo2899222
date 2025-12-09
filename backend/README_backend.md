@@ -25,3 +25,10 @@ Workflows ubicados en backend/.github/workflows/
 Requiere secrets:
 - DOCKERHUB_USERNAME
 - DOCKERHUB_TOKEN
+
+# Logs ejercicio 10 César
+* d516b45 (HEAD -> main, rama1_CesarValverde) Commit Ejercicio 8 cambios en MD
+* f806deb Ejercicio 8
+* 930638e (origin/main, origin/HEAD, rama2_CesarValverde) Primer Commit BackEnd
+* 7867224 first commit
+
